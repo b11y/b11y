@@ -68,7 +68,7 @@ The first step to getting anywhere is deciding you’re no longer willing to sta
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
+![Profile views counter](https://komarev.com/ghpvc/?username=b11y&&style=flat-square)  
   
 
 <br/>  
@@ -77,4 +77,3 @@ The first step to getting anywhere is deciding you’re no longer willing to sta
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
